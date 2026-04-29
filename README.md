@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on  <br>CloudNative & CloudForge — Cloud-native applications and Full Stack development projects   <br><br>👯 Looking to collaborate on <br>Data Analysis, and scalable Full Stack and Cloud projects  <br><br>🤝 Looking for help with  <br>Cloud architecture, and performance optimization  <br><br>🌱 Currently learning  <br>Cloud Computing & Devops, Data Structures <br><br>💬 Ask me about  <br>Web devlopment, Cloud basics, and Data Analysis  <br><br>⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and create scalable digital platforms.<br>
+🔭 Currently working on  <br>CloudNative & CloudForge — Cloud Applications and Full Stack development projects   <br><br>👯 Looking to collaborate on <br>Data Analysis, and scalable Full Stack and Cloud projects  <br><br>🤝 Looking for help with  <br>Cloud architecture, and performance optimization  <br><br>🌱 Currently learning  <br>Cloud Computing & Devops, Data Structures <br><br>💬 Ask me about  <br>Web devlopment, Cloud basics, and Data Analysis  <br><br>⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and create scalable digital platforms.<br>
 
 
 ## 🌐 Socials:
