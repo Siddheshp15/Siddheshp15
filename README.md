@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on  <br>Cloud applications, Machine Learning projects, and Full Stack development   <br><br>👯 Looking to collaborate on <br>AI/ML, Data Analysis, and scalable Full Stack and Cloud projects  <br><br>🤝 Looking for help with  <br>ML model deployment, cloud architecture, and performance optimization  <br><br>🌱 Currently learning  <br>Cloud Computing & Devops, Data Structures <br><br>💬 Ask me about  <br>Web devlopment, Cloud basics, and Data Analysis  <br><br>⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and create scalable digital platforms.<br>
+🔭 Currently working on  <br>Cloud applications, Machine Learning projects, and Full Stack development   <br><br>👯 Looking to collaborate on <br>AI/ML, Data Analysis, and scalable Full Stack and Cloud projects  <br><br>🤝 Looking for help with  <br>Cloud architecture, and performance optimization  <br><br>🌱 Currently learning  <br>Cloud Computing & Devops, Data Structures <br><br>💬 Ask me about  <br>Web devlopment, Cloud basics, and Data Analysis  <br><br>⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and create scalable digital platforms.<br>
 
 
 ## 🌐 Socials:
