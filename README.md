@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on  <br>Cloud Applications and Backend development projects   <br><br>👯 Looking to collaborate on <br>Data analysis, and Scalable backend and cloud projects  <br><br>🤝 Looking for help with  <br>Cloud architecture, and performance optimization  <br><br>🌱 Currently learning  <br> Devops & Cloud<br> <br>⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and create scalable platforms.<br>
+🔭 Currently working on  <br>Cloud applications and Backend development projects   <br><br>👯 Looking to collaborate on <br>Data analysis, and Scalable backend and cloud projects  <br><br>🤝 Looking for help with  <br>Cloud architecture, and performance optimization  <br><br>🌱 Currently learning  <br> Devops & Cloud<br> <br>⚡ Fun fact  <br>I enjoy building tech solutions that solve real-world problems and create scalable platforms.<br>
 
 
 ## 🌐 Socials:
